@@ -3,7 +3,7 @@
 use ArrayAccess;
 use DateTime;
 use Illuminate\View\Factory;
-use
+use Illuminate\Support\Str;
 
 
 class Calendar
